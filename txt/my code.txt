@@ -1,0 +1,1 @@
+	<span style="float:right;color:white"><b>Last Visited Date : <?php echo isset($_COOKIE['lastdate'])?$_COOKIE['lastdate']:""; ?></b></span>
